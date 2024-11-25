@@ -28,3 +28,8 @@ Tools: Python, Pillow (PIL), Text Editor/IDE
 Install the Pillow library:
 ```bash
 pip install Pillow
+```
+---
+## Encoded & Decoded Images
+![encoded_image](https://github.com/user-attachments/assets/d4d033a7-7233-44c3-9930-85a2b8568db7)
+![Butterfly](https://github.com/user-attachments/assets/2c715549-8626-41ec-b95f-efa40fa85d86)
