@@ -30,6 +30,9 @@ Install the Pillow library:
 pip install Pillow
 ```
 ---
-## Encoded & Decoded Images
+## Encoded Image
 ![encoded_image](https://github.com/user-attachments/assets/d4d033a7-7233-44c3-9930-85a2b8568db7)
+---
+## Decoded Image
 ![Butterfly](https://github.com/user-attachments/assets/2c715549-8626-41ec-b95f-efa40fa85d86)
+---
